@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "7964159152",
+    "firebase_url": "https://jalecitos-prod.firebaseio.com",
+    "project_id": "jalecitos-prod",
+    "storage_bucket": "jalecitos-prod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7964159152:android:07be880e58baa5a5",
+        "android_client_info": {
+          "package_name": "jalecitos.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7964159152-m8fdpog25f789inec6h1uqpj5o4e57d7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "jalecitos.com",
+            "certificate_hash": "66405d5886328e4fc3454814d9e4c65d172c486d"
+          }
+        },
+        {
+          "client_id": "7964159152-mhva2mc952rhmbojt45qnaq3ulk1qedu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh5vy_1w_xSJpV_VFB-DK1gceIeWzD7W0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7964159152-a9jeda6qoefb813k8208cjtn214jddb0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "7964159152-qivgfvtm1516s480kinjb96qvimjkn80.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jalecitos.www"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

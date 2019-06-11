@@ -1,0 +1,24 @@
+<resources>
+
+    <string name="app_name">Jalecitos</string>
+    <!--fireBase push notification-->
+    <string name="default_notification_channel_id">01</string>
+    <string name="default_notification_channel_name">@string/app_name</string>
+    <string name="fcm_message">@string/app_name</string>
+
+    <!--TWA-->
+    <string name="asset_statements">
+        [{
+            \"relation\": [\"delegate_permission/common.handle_all_urls\"],
+            \"target\": {
+                \"namespace\": \"web\",
+                \"site\": \"https://www.jalecitos.com"}
+        }]
+    </string>
+    <string name="default_url">https://www.jalecitos.com</string>
+    <string name="path">mobile_sign_up</string>
+    <string name="scheme">https</string>
+    <string name="authority">www.jalecitos.com</string>
+    <string name="param">fcmtoken</string>
+
+</resources>
